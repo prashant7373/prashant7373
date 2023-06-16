@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Gupta</h1>
 <h3 align="center">A passionate Game Developer</h3>
 
-<img align="right" alt="gaming" width="400" src="https://i.gifer.com/2Fz0.gif">
+<img align="right" alt="gaming" width="400" src="[https://i.gifer.com/2Fz0.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdeveloper-vr&psig=AOvVaw22Ye-JvRvpMhCiVVteLQeG&ust=1687031103191000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjPv9_GyP8CFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant7373&label=Profile%20views&color=0e75b6&style=flat" alt="prashant7373" /> </p>
 
